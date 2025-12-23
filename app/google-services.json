@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "926497352777",
+    "project_id": "shopsphere-37e37",
+    "storage_bucket": "shopsphere-37e37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926497352777:android:a21304103ab375117e2398",
+        "android_client_info": {
+          "package_name": "com.example.productsadder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926497352777-gclsshttva2lgk1ltcda1deatu886252.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEeNrvSHTuoenMZLVLmZ8T80Okk-bivIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926497352777-gclsshttva2lgk1ltcda1deatu886252.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926497352777:android:54a577a180e0f4d67e2398",
+        "android_client_info": {
+          "package_name": "com.example.shopsphere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926497352777-dcvf5c37p5mvg0gk834as9fghjsmrn0t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shopsphere",
+            "certificate_hash": "503aaa6fdfced0f279341e0b9c58ca0245326e81"
+          }
+        },
+        {
+          "client_id": "926497352777-gclsshttva2lgk1ltcda1deatu886252.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEeNrvSHTuoenMZLVLmZ8T80Okk-bivIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926497352777-gclsshttva2lgk1ltcda1deatu886252.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
